@@ -1,7 +1,7 @@
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]()
 <h1 align="center">Hi 👋, I'm Muhammed Shakil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilshegu" alt="shakilshegu" /></a> </p>
 
