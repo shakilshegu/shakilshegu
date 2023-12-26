@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammed Shakil</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0h0WDrR0Xb0xgtzygogmn2&ust=1703654080671000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjryZisrIMDFQAAAAAdAAAAABAQ"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0h0WDrR0Xb0xgtzygogmn2&ust=1703654080671000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjryZisrIMDFQAAAAAdAAAAABAQ">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilshegu" alt="shakilshegu" /></a> </p>
 
