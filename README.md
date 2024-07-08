@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilshegu" alt="shakilshegu" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-shakil.vercel.app/](https://my-portfolio-shakil.vercel.app/)
 
 - 📫 How to reach me **muhammadshakil968@gmail.com**
 
